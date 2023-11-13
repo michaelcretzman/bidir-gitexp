@@ -8,7 +8,7 @@ pipeline:
     - stage:
         name: example
         identifier: example
-        description: "This is a test"
+        description: "This is another test"
         type: Custom
         spec:
           execution:
